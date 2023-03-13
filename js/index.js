@@ -266,5 +266,3 @@ addActionButton.addEventListener('click', () => {
     alert('Все поля должны быть заполнены. Попробуй еще раз...')
   }
 });
-
-
