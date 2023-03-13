@@ -153,7 +153,7 @@ const comparationColor = (a, b) => {
 
 const sortAPI = {
   bubbleSort(arr, comparation) {
-    //допишите функция сортировки пузырьком
+    //функция сортировки пузырьком
     for (let i = 0, endI = arr.length - 1; i < endI; i++) {
       let wasSwap = false;
       for (var j = 0, endJ = endI - i; j < endJ; j++) {
